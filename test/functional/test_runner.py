@@ -63,7 +63,7 @@ BASE_SCRIPTS= [
     #'rpc_fundrawtransaction.py',
     # vv Tests less than 2m vv
     #'p2p_pos_doublespend.py', # Not working -- TODO fix it
-    'wallet_basic.py',
+    #'wallet_basic.py', # takes 22 minutes to run, have disabled
     'wallet_accounts.py',
     'wallet_dump.py',
     'rpc_listtransactions.py',
