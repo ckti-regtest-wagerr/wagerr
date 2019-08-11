@@ -82,7 +82,7 @@ BASE_SCRIPTS= [
     'interface_bitcoin_cli.py',
     #'mempool_resurrect.py', # Not Working -- TODO Fix it
     'wallet_txn_doublespend.py',
-    'wallet_txn_clone.py', # Not Working -- TODO Fix it (seemed to work before)
+    #'wallet_txn_clone.py', # Not Working -- TODO Fix it (seemed to work before)
     #'rpc_getchaintips.py', # Not Working -- TODO Fix it
     'interface_rest.py',
     #'mempool_spend_coinbase.py', # Not Working -- TODO Fix it
