@@ -1,7 +1,7 @@
 # Copyright (c) 2018-2019 The Ion developers
 # Copyright (c) 2018-2019 The Wagerr developers
 # Copyright (c) 2019 The OBSR developers
-name: wagerr
+name: ckti-regtest-wagerr
 base: core18
 version: 3.0.1
 summary:   wagerr, digital currency for decentralized betting
@@ -47,7 +47,7 @@ description: |
   - reddit (https://www.reddit.com/r/Wagerr/)
   - bitcointalk (https://bitcointalk.org/index.php?topic=1911583.0)
   - facebook (https://www.facebook.com/wagerr/)
-grade: devel
+grade: stable
 confinement: strict
 apps:
   daemon:
